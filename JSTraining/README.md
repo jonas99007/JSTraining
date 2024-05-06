@@ -1,0 +1,2 @@
+# JSTraining
+A JavaScript project
